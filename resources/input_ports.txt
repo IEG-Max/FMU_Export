@@ -1,0 +1,2 @@
+ext_grid/Grid_Connection/vm_pu/Real
+load/Load/q_mvar/Real
